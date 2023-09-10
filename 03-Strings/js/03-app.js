@@ -1,0 +1,1 @@
+const producto= "monitor 20 pulgadas";
